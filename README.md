@@ -37,6 +37,12 @@
 
 ---
 
+## ✨模块交流群
+
+[https://t.me/freemoe520](https://t.me/freemoe520)
+
+---
+
 ## 🎇适配的APP
 
 **注：从左往右，分别是App名字，解锁描述**
