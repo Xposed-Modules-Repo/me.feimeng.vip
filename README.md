@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://s21.ax1x.com/2025/09/13/pVWBZJH.png"  width="250" height="250" />
+<img src="https://s21.ax1x.com/2025/10/18/pVLtofP.png"  width="250" height="250" />
 
 
 # FreeMoe
@@ -112,3 +112,4 @@ https://www.123684.com/s/dNbHjv-P4nsA?pwd=pwOZ
 [![Stargazers over time](https://starchart.cc/HunMoe/FreeMoe.svg)](https://starchart.cc/HunMoe/FreeMoe/)
 
 ## 
+
